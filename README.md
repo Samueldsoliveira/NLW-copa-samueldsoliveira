@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat & Luan Lucas.
+Feito com ♥ by Rocketseat & Samuel Oliveira.
